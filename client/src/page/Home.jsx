@@ -24,7 +24,7 @@ const Home = () => {
 
     try {
       const response = await fetch(
-        "https://dall-e-jjc0.onrender.com/api/v1/post",
+        "https://dalle-backend-l9rz.onrender.com/api/v1/post",
         {
           method: "GET",
           headers: {
