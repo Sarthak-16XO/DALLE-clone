@@ -7,8 +7,5 @@ This is a code repository of a MERN AI Image Generation App based on OpenAI's DA
 3. OpenAI's DALL-E model
 4. Cloudinary
 
-### Screenshot
-
-
 ### Credits
 This project is adapted from a tutorial from [JavaScript Mastery](https://github.com/adrianhajdin).
